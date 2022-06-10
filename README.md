@@ -21,7 +21,11 @@
 <h1 align="center">
   Hey there ,
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4px"height="33px" />
+   I'm Anurag
+   </br>
+   <h3 align="center">A Software Developer</h3>
 </h1>
+
 
 
 
@@ -42,7 +46,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: Passionate about new technologies,I keep exploring stuff.
 
-- :zap: In my free time, I solve questions on coding and develope web application using web technologies.
+- :zap: In my free time, I solve questions on coding and develop web application using web technologies.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkdin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-tiwari-1935a1215/)
 
